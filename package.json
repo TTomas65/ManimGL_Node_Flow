@@ -1,0 +1,17 @@
+{
+  "name": "node-flow-editor",
+  "version": "1.0.0",
+  "description": "Grafikus node-alapú szerkesztő felület",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0",
+    "rete": "^1.5.0",
+    "rete-connection-plugin": "^0.9.0",
+    "rete-vue-render-plugin": "^0.5.1",
+    "rete-area-plugin": "^0.2.1",
+    "vue": "^2.6.14"
+  }
+}
