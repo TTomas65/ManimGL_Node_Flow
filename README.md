@@ -1,5 +1,5 @@
 # ManimGL Node Flow
-
+Small pilot project
 A node-based interface for creating animations using ManimGL. This project combines the power of ManimGL for mathematical animations with a user-friendly node-based interface built with Electron and Rete.js.
 
 ## Features
